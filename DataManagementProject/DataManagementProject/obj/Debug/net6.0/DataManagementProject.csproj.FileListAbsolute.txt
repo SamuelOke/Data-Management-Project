@@ -1,0 +1,15 @@
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\bin\Debug\net6.0\DataManagementProject.exe
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\bin\Debug\net6.0\DataManagementProject.deps.json
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\bin\Debug\net6.0\DataManagementProject.runtimeconfig.json
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\bin\Debug\net6.0\DataManagementProject.dll
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\bin\Debug\net6.0\DataManagementProject.pdb
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\obj\Debug\net6.0\DataManagementProject.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\obj\Debug\net6.0\DataManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\obj\Debug\net6.0\DataManagementProject.AssemblyInfoInputs.cache
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\obj\Debug\net6.0\DataManagementProject.AssemblyInfo.cs
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\obj\Debug\net6.0\DataManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\obj\Debug\net6.0\DataManagementProject.dll
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\obj\Debug\net6.0\refint\DataManagementProject.dll
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\obj\Debug\net6.0\DataManagementProject.pdb
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\obj\Debug\net6.0\DataManagementProject.genruntimeconfig.cache
+C:\Users\sammy\source\repos\DataManagementProject\DataManagementProject\obj\Debug\net6.0\ref\DataManagementProject.dll
